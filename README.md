@@ -108,7 +108,7 @@ Este é um guia rápido para entender o código CSS e HTML utilizado na criaçã
 
     <div class="menu-item" id="div8">
         <div class="item-details">
-            <h3>X-MEGA burguer recheado </h3>
+            <h3>X-burguer duplo bacon </h3>
             <p>Delicioso lanche de Hamburguer MEGA, recheado com queijo, alface, tomate, mais queijo e molho da casa.</p>
             <p id="preço1">$ 32,99</p>
         </div>
@@ -118,7 +118,7 @@ Este é um guia rápido para entender o código CSS e HTML utilizado na criaçã
 
     <div class="menu-item" id="div9">
         <div class="item-details">
-            <h3>X-Burgur egg bacon </h3>
+            <h3>X-Burguer egg bacon </h3>
             <p>Delicioso lanche de Hamburguer com ovo, bacon em tiras, alface, tomate, queijo e molho da casa.</p>
             </div>
             <p id="preço1">$ 32,99</p>
