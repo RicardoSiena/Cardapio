@@ -95,35 +95,35 @@ Este é um guia rápido para entender o código CSS e HTML utilizado na criaçã
  <img id="img6" src="imagens/MegaB.png" width="12%" >
 
 
-    <div class="menu-item" id="div7">
+<div class="menu-item" id="div7">
         <div class="item-details">
             <h3>X-burguer bacon</h3>
             <p>Delicioso lanche de hamburguer com bacon em tiras, alface, queijo e molho especial.</p>
             <p id="preço1">$ 22,99</p>
         </div>
-    </div>
+</div>
 <img id="img8"  src="imagens/xbacon.png" width="12%">
     
 
 
-    <div class="menu-item" id="div8">
+<div class="menu-item" id="div8">
         <div class="item-details">
             <h3>X-burguer duplo bacon </h3>
             <p>Delicioso lanche de Hamburguer MEGA, recheado com queijo, alface, tomate, mais queijo e molho da casa.</p>
             <p id="preço1">$ 32,99</p>
         </div>
-    </div>
+</div>
 <img id="img9" src="imagens/xbaconduplo.png" width="15%">
 
 
-    <div class="menu-item" id="div9">
+<div class="menu-item" id="div9">
         <div class="item-details">
             <h3>X-Burguer egg bacon </h3>
             <p>Delicioso lanche de Hamburguer com ovo, bacon em tiras, alface, tomate, queijo e molho da casa.</p>
             </div>
             <p id="preço1">$ 32,99</p>
         </div>
-    </div>
+ </div>
 <img id="img10" src="imagens/ovoburguer.png" width="15%">
 
 
